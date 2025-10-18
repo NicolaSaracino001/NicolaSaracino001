@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My nane is Nicola, and I'm a bioinformatics student passionate about programming and building creative projects! 
+
+- 🔭 I’m currently working on personal coding projects and exploring new ways to combine data, biology, and creativity. 
+- 🌱 I’m currently learning advanced data analyst, machine learning, and new programming languages to improve my projects. 
+- 👯 I’m looking to collaborate on innovative projects that mix data, code, and creativity.
+   - Send me ideas to nicola.saracino098@gmail.com
 
 
 
