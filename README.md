@@ -8,7 +8,7 @@
 
 <br>
 
-I am a bioinformatics student specializing in computational biology, currently completing my final coursework in Milan. I work at the intersection of biology and computation, aiming to turn complex molecular data into biological insights while building robust software solutions as a freelance developer.
+I am a bioinformatics student, currently completing my final coursework in Milan. I work at the intersection of biology and computation, aiming to turn complex molecular data into biological insights while building robust software solutions as a freelance developer.
 
 ### Languages and Tools
 
