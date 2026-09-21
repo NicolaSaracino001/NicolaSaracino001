@@ -1,5 +1,6 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=276DC3&center=true&vCenter=true&width=800&lines=Nicola+Saracino;Computational+Biology+%E2%80%A2+Bioinformatics;Freelance+Software+Developer" alt="Typing SVG" /></a>
+  <!-- Sostituisci "dna-animato.gif" con il nome esatto della tua GIF animata a tema DNA/Dati -->
+  <img src="dna-animato.gif" alt="Bioinformatics & Data Animation" width="100%">
   <br><br>
   [![Email](https://img.shields.io/badge/Email-nicola.saracino098%40gmail.com-black?style=flat&logo=gmail)](#)
   [![Location](https://img.shields.io/badge/Milan-Italy-green)](#)
@@ -30,20 +31,17 @@ Functional Enrichment (gprofiler2)          Event & Community Tech</code></pre>
 
 ### Featured Projects
 
-🔬 **[Single-Cell RNA Sequencing Analysis](INSERISCI_LINK_QUI)**  
+🔬 **[Single-Cell RNA Sequencing Analysis](https://github.com/NicolaSaracino001/Single-cell-RNA-Sequencing)**  
 Processed and analyzed single-cell transcriptomic data across **spleen, skin, and brain** tissue samples using R. Evaluated gene expression metrics, generated cluster heatmaps, and performed functional enrichment annotations.
 
-🧬 **[Genomics Project](INSERISCI_LINK_QUI)**  
-*(Inserisci qui 1-2 righe descrittive sul tuo progetto di genomica)*
+🧬 **[Genomics Project](https://github.com/NicolaSaracino001/Genomics_RareDisease_Project)**  
+This repository documents the complete bioinformatics pipeline and clinical analysis conducted on 5 family trios (father, mother, child). The primary objective of this project is to identify and isolate pathogenic genetic variants responsible for rare Mendelian disorders using genomic sequencing data.
 
-📊 **[Biostatistics HIV Project](INSERISCI_LINK_QUI)**  
-*(Inserisci qui 1-2 righe descrittive sull'analisi statistica dei dati HIV)*
+📊 **[Biostatistics HIV Project](https://github.com/NicolaSaracino001/Biostatistics_Project)**  
+This repository contains the complete biostatistical analysis for the Transcriptomics and Clinical Data Examination. The project evaluates the efficacy of four alternative antiretroviral treatment regimens using bulk clinical data from an HIV clinical trial.
 
-🍲 **[FoodLoop](INSERISCI_LINK_QUI)**  
+🍲 **[FoodLoop]**  
 A sustainable inventory management system built with Flask, Python, and SQLite featuring AI-driven recipe generation based on available ingredients.
 
-🕸️ **[Protein-Protein Interaction (PPI) Networks](INSERISCI_LINK_QUI)**  
+🕸️ **[Protein-Protein Interaction (PPI) Networks]**  
 Developed a Python pipeline utilizing the STRING database API and NetworkX to construct interaction graphs, calculate centrality metrics, and identify hub proteins.
-
-🎫 **[Aion](INSERISCI_LINK_QUI)**  
-An event management and ticketing application developed to support community coordination and event promotion for non-profit associations.
