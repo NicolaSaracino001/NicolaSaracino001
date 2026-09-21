@@ -1,55 +1,49 @@
-# Hello, I'm Nicola Saracino! 👋
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=276DC3&center=true&vCenter=true&width=800&lines=Nicola+Saracino;Computational+Biology+%E2%80%A2+Bioinformatics;Freelance+Software+Developer" alt="Typing SVG" /></a>
+  <br><br>
+  [![Email](https://img.shields.io/badge/Email-nicola.saracino098%40gmail.com-black?style=flat&logo=gmail)](#)
+  [![Location](https://img.shields.io/badge/Milan-Italy-green)](#)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-nicola--portfolio.lovable.app-blue)](#)
+</div>
 
-I am a bioinformatics student in Milan, currently completing my final coursework. Alongside my studies, I work as a freelance developer, focusing on backend software engineering, web development, and database infrastructure.
+<br>
 
-My passion lies at the intersection of data, biology, and software engineering. I enjoy building creative, full-stack applications and analytical pipelines that solve real-world problems—whether it's uncovering biological insights or developing scalable platforms for community management.
+I am a bioinformatics student specializing in computational biology, currently completing my final coursework in Milan. I work at the intersection of biology and computation, aiming to turn complex molecular data into biological insights while building robust software solutions as a freelance developer.
 
-## 🔎 Main Interests
+### Languages and Tools
 
-* **Bioinformatics & Computational Biology:** Single-cell RNA sequencing analysis and structural bioinformatics.
-* **Full-Stack Web Development:** Building robust backend architectures, APIs, and intuitive user interfaces.
-* **Data Analytics:** Applying statistical methods and data visualization to complex datasets.
-* **Community & Event Tech:** Developing software solutions to simplify event coordination and foster networking.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🛠️ Skills
+<pre><code>scRNA-seq · String API · NetworkX           Backend Architecture & APIs
+Cluster Heatmaps · Differential Expression  Database Migrations (SQLite)
+Protein-Protein Interaction Networks        Full-Stack Web Development
+Functional Enrichment (gprofiler2)          Event & Community Tech</code></pre>
 
-* **Programming:** Python, R, SQL, SQLite
-* **Bioinformatics & Data Analysis:**
-  * Single-cell RNA transcriptomics (transcript counts, QC metrics, differential expression)
-  * Network analysis and hub protein identification
-  * Tools & Packages: gprofiler2, NetworkX, STRING API
-* **Web & Software Development:**
-  * Flask, backend routing, and database migrations
-  * API integration and unit testing (Pytest)
+### Education
 
-## 🧑‍💻 Featured Projects
+🎓 **Bioinformatics for Computational Genomics** *(in progress)*  
+🎓 **Focus on Single-Cell Analysis & Structural Bioinformatics**  
 
-**[Single-Cell RNA Sequencing Analysis]**
-Processed and analyzed single-cell transcriptomic data across **spleen, skin, and brain** tissue samples using R. Evaluated gene expression metrics, generated cluster heatmaps, and performed functional enrichment annotations to identify key biological pathways.
-🔗 **Repo:** [Link to Single-Cell Repository](https://github.com/NicolaSaracino001/Single-cell-RNA-Sequencing)
+### Featured Projects
 
-**[Genomics Project]**
-This repository documents the complete bioinformatics pipeline and clinical analysis conducted on 5 family trios (father, mother, child). The primary objective of this project is to identify and isolate pathogenic genetic variants responsible for rare Mendelian disorders using genomic sequencing data.
-🔗 **Repo:** [Link to Genomics Repository](https://github.com/NicolaSaracino001/Genomics_RareDisease_Project)
+🔬 **[Single-Cell RNA Sequencing Analysis](INSERISCI_LINK_QUI)**  
+Processed and analyzed single-cell transcriptomic data across **spleen, skin, and brain** tissue samples using R. Evaluated gene expression metrics, generated cluster heatmaps, and performed functional enrichment annotations.
 
-**[Biostatistics HIV Project]**
-This repository contains the complete biostatistical analysis for the Transcriptomics and Clinical Data Examination. The project evaluates the efficacy of four alternative antiretroviral treatment regimens using bulk clinical data from an HIV clinical trial.
-🔗 **Repo:** [Link to Biostatistics Repository](https://github.com/NicolaSaracino001/Biostatistics_Project)
+🧬 **[Genomics Project](INSERISCI_LINK_QUI)**  
+*(Inserisci qui 1-2 righe descrittive sul tuo progetto di genomica)*
 
-**[FoodLoop]**
-A sustainable inventory management system built with Flask, Python, and SQLite. Designed the backend routes, database schemas, and integrated an AI-driven recipe generation tool based on available ingredients.
+📊 **[Biostatistics HIV Project](INSERISCI_LINK_QUI)**  
+*(Inserisci qui 1-2 righe descrittive sull'analisi statistica dei dati HIV)*
 
-**[Protein-Protein Interaction (PPI) Networks]**
-Developed a Python command-line pipeline utilizing the STRING database API and NetworkX to construct interaction graphs, calculate centrality metrics, and identify hub proteins.
+🍲 **[FoodLoop](INSERISCI_LINK_QUI)**  
+A sustainable inventory management system built with Flask, Python, and SQLite featuring AI-driven recipe generation based on available ingredients.
 
-## 🌱 Future Projects & Collaboration
+🕸️ **[Protein-Protein Interaction (PPI) Networks](INSERISCI_LINK_QUI)**  
+Developed a Python pipeline utilizing the STRING database API and NetworkX to construct interaction graphs, calculate centrality metrics, and identify hub proteins.
 
-I am actively preparing for a curricular internship and am always looking to:
-* **Contribute** to open-source projects combining bioinformatics and software engineering.
-* **Collaborate** on innovative projects that mix data, code, and creativity.
-
-## 🤝 Let's Connect
-
-* **Portfolio:** [nicola-portfolio.lovable.app](https://nicola-portfolio.lovable.app)
-* **LinkedIn:** [Nicola Saracino](#) *(https://www.linkedin.com/in/nicolasaracino/)*
-* **Email:** nicola.saracino098@gmail.com
+🎫 **[Aion](INSERISCI_LINK_QUI)**  
+An event management and ticketing application developed to support community coordination and event promotion for non-profit associations.
