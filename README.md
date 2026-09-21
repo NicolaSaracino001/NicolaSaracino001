@@ -1,10 +1,9 @@
 <div align="center">
-  <!-- Sostituisci "dna-animato.gif" con il nome esatto della tua GIF animata a tema DNA/Dati -->
-  <img src="dna-animato.gif" alt="Bioinformatics & Data Animation" width="100%">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29qZ3h0bXN3M3VyeTdvaTlrdTV4a3M0aDNpbnJ5bDd0bWk4Z3ZmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" alt="Bioinformatics & Data Animation" width="100%">
   <br><br>
-  [![Email](https://img.shields.io/badge/Email-nicola.saracino098%40gmail.com-black?style=flat&logo=gmail)](#)
-  [![Location](https://img.shields.io/badge/Milan-Italy-green)](#)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-nicola--portfolio.lovable.app-blue)](#)
+  <a href="mailto:nicola.saracino098@gmail.com"><img src="https://img.shields.io/badge/Email-nicola.saracino098%40gmail.com-black?style=flat&logo=gmail" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Milan-Italy-green" alt="Location">
+  <a href="https://nicola-portfolio.lovable.app"><img src="https://img.shields.io/badge/Portfolio-nicola--portfolio.lovable.app-blue" alt="Portfolio"></a>
 </div>
 
 <br>
@@ -31,17 +30,20 @@ Functional Enrichment (gprofiler2)          Event & Community Tech</code></pre>
 
 ### Featured Projects
 
-🔬 **[Single-Cell RNA Sequencing Analysis](https://github.com/NicolaSaracino001/Single-cell-RNA-Sequencing)**  
+🔬 **[Single-Cell RNA Sequencing Analysis](INSERISCI_LINK_QUI)**  
 Processed and analyzed single-cell transcriptomic data across **spleen, skin, and brain** tissue samples using R. Evaluated gene expression metrics, generated cluster heatmaps, and performed functional enrichment annotations.
 
-🧬 **[Genomics Project](https://github.com/NicolaSaracino001/Genomics_RareDisease_Project)**  
-This repository documents the complete bioinformatics pipeline and clinical analysis conducted on 5 family trios (father, mother, child). The primary objective of this project is to identify and isolate pathogenic genetic variants responsible for rare Mendelian disorders using genomic sequencing data.
+🧬 **[Genomics Project](INSERISCI_LINK_QUI)**  
+*(Inserisci qui 1-2 righe descrittive sul tuo progetto di genomica)*
 
-📊 **[Biostatistics HIV Project](https://github.com/NicolaSaracino001/Biostatistics_Project)**  
-This repository contains the complete biostatistical analysis for the Transcriptomics and Clinical Data Examination. The project evaluates the efficacy of four alternative antiretroviral treatment regimens using bulk clinical data from an HIV clinical trial.
+📊 **[Biostatistics HIV Project](INSERISCI_LINK_QUI)**  
+*(Inserisci qui 1-2 righe descrittive sull'analisi statistica dei dati HIV)*
 
-🍲 **[FoodLoop]**  
+🍲 **[FoodLoop](INSERISCI_LINK_QUI)**  
 A sustainable inventory management system built with Flask, Python, and SQLite featuring AI-driven recipe generation based on available ingredients.
 
-🕸️ **[Protein-Protein Interaction (PPI) Networks]**  
+🕸️ **[Protein-Protein Interaction (PPI) Networks](INSERISCI_LINK_QUI)**  
 Developed a Python pipeline utilizing the STRING database API and NetworkX to construct interaction graphs, calculate centrality metrics, and identify hub proteins.
+
+🎫 **[Aion](INSERISCI_LINK_QUI)**  
+An event management and ticketing application developed to support community coordination and event promotion for non-profit associations.
