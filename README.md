@@ -30,7 +30,7 @@ Functional Enrichment (gprofiler2)          Event & Community Tech</code></pre>
 
 ### Featured Projects
 
-👉 **[Click here to explore my Interactive Projects Portfolio!](https://nicolasaracino001.github.io/nicola-saracino.github.io/)
+👉 **[Click here to explore my Interactive Projects Portfolio!](https://nicolasaracino001.github.io/nicola-saracino.github.io/)**
 
 🔬 **[Single-Cell RNA Sequencing Analysis](https://github.com/NicolaSaracino001/Single-cell-RNA-Sequencing)**  
 Processed and analyzed single-cell transcriptomic data across **spleen, skin, and brain** tissue samples using R. Evaluated gene expression metrics, generated cluster heatmaps, and performed functional enrichment annotations.
