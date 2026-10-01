@@ -17,6 +17,8 @@ I am a bioinformatics student, currently completing my final coursework in Milan
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
+
 
 <pre><code>scRNA-seq · String API · NetworkX           Backend Architecture & APIs
 Cluster Heatmaps · Differential Expression  Database Migrations (SQLite)
