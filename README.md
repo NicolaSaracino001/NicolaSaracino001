@@ -40,6 +40,9 @@ Processed and analyzed single-cell transcriptomic data across **spleen, skin, an
 🧬 **[Genomics Project](https://github.com/NicolaSaracino001/Genomics_RareDisease_Project)**  
 This repository documents the complete bioinformatics pipeline and clinical analysis conducted on 5 family trios (father, mother, child). The primary objective of this project is to identify and isolate pathogenic genetic variants responsible for rare Mendelian disorders using genomic sequencing data.
 
+🧪 **[Bulk RNA_Sequencing Analysis](https://github.com/NicolaSaracino001/Bulk-RNA-Sequencing)**
+Conducted bioinformatic analysis of human transcriptome samples (Brain, Skin, Spleen) from GTEx using recount3 and edge3. Performed TMM normalization, exploratory MDS visualization, and differential expression testing to identify tissue-specific unregulated genes.
+
 📊 **[Biostatistics HIV Project](https://github.com/NicolaSaracino001/Biostatistics_Project)**  
 This repository contains the complete biostatistical analysis for the Transcriptomics and Clinical Data Examination. The project evaluates the efficacy of four alternative antiretroviral treatment regimens using bulk clinical data from an HIV clinical trial.
 
